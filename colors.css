@@ -1,0 +1,9 @@
+#color-square {
+    width: 50%;
+    aspect-ratio: 1;
+    margin: 80px auto;
+}
+
+body {
+    background-color: rgb(255, 252, 215);
+}
